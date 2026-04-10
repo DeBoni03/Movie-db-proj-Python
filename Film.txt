@@ -1,0 +1,608 @@
+1408
+2007
+John Cusack
+Horror/Thriller/Drammatico
+USA
+Mikael Hafstrom
+104
+
+8 Mile
+2002
+Eminem
+Musicale/Biografico/Drammatico
+USA
+Curtis Hanson
+111
+
+Ali G
+2002
+Sacha Baron Cohen
+Demenziale/Grottesco
+Regno Unito
+Mark Mylod
+88
+
+American Beauty
+1999
+Kevin Spacey
+Drammatico/Commedia
+USA
+Sam Mendes
+121
+
+American Gangster
+2007
+Denzel Washington
+Gangster/Biografico/Drammatico/Poliziesco
+USA
+Ridley Scott
+157
+
+American Psycho
+2000
+Christian Bale
+Thriller/Drammatico/Grottesco/Noir
+USA
+Mary Harron
+102
+
+Cloverfield 
+2008
+Michael Stahl-David
+Fantascienza/Horror
+USA
+Matt Reeves
+85
+
+Contact
+1997
+Jodie Foster
+Fantascienza/Drammatico
+USA
+Robert Zemeckis
+144
+
+Deja Vu
+2006
+Denzel Washington
+Fantascienza/Thriller/Azione
+USA/Regno Unito
+Tony Scott
+126
+
+Detatchment
+2011
+Adrien Brody
+Drammatico
+USA
+Tony Kaye
+97
+
+Django Unchained
+2012
+Jamie Foxx/Christoph Waltz/Leonardo Di Caprio/Samuel L. Jackson
+Western/Drammatico/Azione
+USA
+Quentin Tarantino
+165
+
+Donnie Darko
+2001
+Jake Gyllenhaal
+Fantascienza/Thriller/Drammatico
+USA
+Richard Kelly
+113
+
+End of Justice
+2017
+Denzel Washington
+Drammatico/Thriller
+USA
+Dan Gilroy
+122
+
+Essere John Malkovich
+1999
+John Malkovich/John Cusack/Cameron Diaz/Catherine Kenner
+Commedia/Drammatico/Grottesco
+USA
+Spike Jonze
+112
+
+Fight Club
+1999
+Edward Norton/Brad Pitt
+Drammatico/Thriller/Grottesco/Azione
+USA
+David Fincher
+139
+
+Flight
+2012
+Denzel Washington
+Drammatico
+USA
+Robert Zemeckis
+138
+
+Forrest Gump
+1994
+Tom Hanks
+Commedia/Biografico
+USA
+Robert Zemeckis
+142
+
+Full Metal Jacket
+1987
+Matthew Modine/Arliss Howard/Vincent D'Onofrio/R. Lee Ermey
+Guerra/Drammatico/Thriller/Azione
+USA/Regno Unito
+Stanley Kubrick
+116
+
+Goodfellas
+1990
+Ray Liotta/Robert De Niro/Joe Pesci
+Biografico/Noir/Gangster/Drammatico
+USA
+Martin Scorsese
+146
+
+Gran Torino 
+2008
+Clint Eastwood
+Drammatico
+USA
+Clint Eastwood
+116
+
+Hancock
+2008
+Will Smith
+Azione/Commedia/Fantastico/Avventura
+USA
+Peter Berg
+92
+
+Heat
+1995
+Al Pacino/Robert De Niro
+Poliziesco/Azione/Thriller/Noir/Drammatico
+USA
+Michael Mann
+170
+
+Il Castello Errante Di Howl
+2004
+---
+Animazione/Fantastico/Avventura
+Giappone
+Hayao Miyazaki
+119
+
+Il Fantastico Mr. Fox
+2009
+---
+Animazione/Avventura/Commedia
+USA
+Wes Anderson
+87
+
+Il Gladiatore
+2000
+Russel Crowe
+Epico/Storico/Guerra/Drammatico/Azione
+USA/Regno Unito
+Ridley Scott
+155
+
+Il Grande Lebowski
+1998
+Jeff Bridges
+Commedia/Grottesco
+USA/Regno Unito
+Joel Coen/Ethan Coen
+117
+
+Il Miglio Verde
+1999
+Tom Hanks
+Drammatico/Fantastico
+USA
+Frank Darabont
+189
+
+Il Momento Di Uccidere
+1996
+Matthew McConaughey/Samuel L. Jackson
+Drammatico/Thriller
+USA
+Joel Schumacher
+149
+
+Il Padrino (Trilogia)
+1972/1975/1990
+Marlon Brando/Al Pacino/Robert De Niro/Andy Garcia
+Noir/Drammatico/Gangster/Biografico
+USA
+Francis Ford Coppola
+180
+
+Il Signore Degli Anelli (Trilogia)
+2001/2002/2003
+Elijah Wood/Sean Astin
+Fantastico/Avventura/Azione/Epico/Drammatico/Guerra
+USA/Nuova Zelanda
+Peter Jackson
+186
+
+Inception
+2010
+Leonardo Di Caprio
+Azione/Fantascienza/Thriller/Avventura
+USA/Regno Unito
+Christopher Nolan
+148
+
+Inside Man
+2006
+Denzel Washington
+Thriller
+USA
+Spike Lee
+129
+
+Interstellar
+2014
+Matthew McConaughey
+Fantascienza/Avventura/Drammatico
+USA/Regno Unito
+Christopher Nolan
+169
+
+Io Sono Leggenda
+2007
+Will Smith
+Fantascienza/Azione/Thriller/Horror/Drammatico/Epico
+USA
+Francis Lawrence
+100
+
+Joker
+2019
+Joaquin Phoenix
+Drammatico/Poliziesco/Thriller/Noir
+USA
+Todd Phillips
+121
+
+L'Aereo Piu Pazzo Del Mondo
+1980
+Robert Hays
+Demenziale
+USA
+Zucker-Abrahams-Zucker
+88
+
+L'Attimo Fuggente
+1989
+Robin Williams
+Drammatico
+USA
+Peter Weir
+124
+
+L'Odio
+1995
+Vincent Cassel/Hubert Kounde/Said Taghmaoui
+Drammatico/Noir/Grottesco
+Francia
+Mathieu Kassovitz
+98
+
+L'Onda
+2008
+Jurgen Vogel
+Drammatico
+Germania
+Dennis Gansel
+102
+
+L'Uomo Bicentenario
+1999
+Robin Williams
+Commedia/Fantascienza/Drammatico
+USA
+Chris Columbus
+132
+
+L'Uomo Senza Sonno
+2004
+Christian Bale
+Thriller/Drammatico/Noir
+USA/Regno Unito/Spagna/Francia
+Brad Anderson
+102
+
+L'Uomo Che Venne Dalla Terra
+2007
+David Lee Smith
+Drammatico/Fantascienza
+USA
+Richard Schenkman
+87
+
+La Citta Incantata
+2001
+---
+Animazione/Fantastico/Avventura
+Giappone
+Hayao Miyazaki
+125
+
+Le Iene
+1992
+Michael Madsen/Steve Buscemi/Harvey Keitel/Tim Roth/Chris Penn
+Gangster
+USA
+Quentin Tarantino
+99
+
+Leon
+1994
+Jean Reno/Natalie Portman
+Azione/Drammatico/Thriller
+Francia
+Luc Besson
+110
+
+Life Of Brian
+1979
+Monthy Python
+Demenziale
+Regno Unito
+Terry Jones
+94
+
+Limitless
+2011
+Bradley Cooper
+Fantascienza/Thriller
+USA
+Neil Burger
+105
+
+Logan
+2017
+Hugh Jackman
+Azione/Thriller/Drammatico/Fantascienza
+USA
+James Mangold
+137
+
+Matrix (Trilogia)
+1999/2003/2003
+Keanu Reeves
+Azione/Fantascienza/Epico/Guerra
+USA
+Andy Wachowski/Larry Wachowski
+134
+
+Memento
+2000
+Guy Pearce
+Thriller/Noir/Drammatico
+USA
+Christopher Nolan
+113
+
+Men In Black (Trilogia)
+1997/2002/2012
+Will Smith
+Azione/Commedia/Fantascienza/Avventura
+USA
+Barry Sonnenfeld
+97
+
+Million Dollar Baby
+2004
+Clint Eastwood/Hilary Swank
+Sportivo/Drammatico
+USA
+Clint Eastwood
+132
+
+Monthy Python E Il Sacro Graal
+1975
+Monthy Python
+Demenziale
+Regno Unito
+Terry Gilliam/Terry Jones
+91
+
+News Movie
+2008
+Len Cariou
+Demenziale
+USA
+James Kleiner
+80
+
+Oppenheimer
+2023
+Cillian Murphy/Robert Downey Jr/Matt Damon/Emily Blunt
+Biografico/Storico/Drammatico/Thriller
+USA/Regno Unito
+Christopher Nolan
+180
+
+Porco Rosso
+1992
+---
+Animazione/Storico/Fantastico/Avventura
+Giappone
+Hayao Miyazaki
+92
+
+Prisoners
+2013
+Hugh Jackman/Jake Gyllenhaal
+Thriller/Drammatico/Noir
+USA
+Denis Villeneuve
+153
+
+Catch Me If You Can
+2002
+Leonardo Di Caprio/Tom Hanks
+Biografico/Commedia/Poliziesco
+USA
+Steven Spielberg
+141
+
+Pulp Fiction
+1994
+Samuel L. Jackson/Bruce Willis/John Travolta
+Gangster/Commedia/Thriller/Noir
+USA
+Quentin Tarantino
+154
+
+Regression
+2015
+Ethan Hawke/Emma Watson
+Thriller/Poliziesco/Drammatico
+Canada/Spagna
+Alejandro Amenabar
+106
+
+Requiem For A Dream
+2000
+Ellen Burstyn/Jared Leto/Jennifer Connelly/Marlon Wayans
+Drammatico
+USA
+Darren Aronofsky
+97
+
+Ritorno Al Futuro (Trilogia)
+1985/1989/1990
+Michael J. Fox/Christopher Lloyd
+Avventura/Commedia/Fantascienza
+USA
+Robert Zemeckis
+92
+
+Se7en
+1995
+Brad Pitt/Morgan Freeman/Kevin Spacey
+Thriller/Drammatico/Poliziesco/Noir
+USA
+David Fincher
+127
+
+Sette Anime
+2008
+Will Smith
+Drammatico
+USA/Italia
+Gabriele Muccino
+123
+
+Suxbad
+2007
+Jonah Hill/Michael Cera/Christopher Mintz-Plasse
+Demenziale/Avventura
+USA
+Greg Mottola
+113
+
+The Life Of David Gale
+2003
+Kevin Spacey
+Drammatico/Thriller
+USA/Germania/Regno Unito
+Alan Parker
+130
+
+The Negotiator
+1998
+Kevin Spacey/Samuel L. Jackson
+Azione/Thriller/Drammatico/Poliziesco
+USA/Germania
+Felix Gary Gray
+140
+
+The Words
+2012
+Bradley Cooper
+Drammatico
+USA
+Brian Klugmann/Lee Sternthal
+102
+
+Trainspotting
+1996
+Ewan McGregor
+Commedia/Drammatico/Grottesco
+Regno Unito
+Danny Boyle
+93
+
+Tropic Thunder
+2008
+Ben Stiller/Robert Downey Jr./Jack Black/Brandon T. Jackson/Jay Baruchel
+Demenziale/Avventura/Azione/Guerra
+USA/Germania
+Ben Stiller
+107
+
+Un Giorno Di Ordinaria Follia
+1993
+Michael Douglas
+Thriller/Drammatico
+USA
+Joel Schumacher
+113
+
+Una Notte Da Leoni (Trilogia)
+2009/2011/2013
+Ed Helms/Zach Galifianakis/Bradley Cooper
+Commedia/Avventura
+USA
+Todd Phillips
+100
+
+V Per Vendetta
+2005
+Natalie Portman/Hugo Weaving
+Azione/Drammatico/Thriller/Fantascienza/Noir/Epico
+USA/Regno Unito/Germania
+James McTeigue
+132
+
+Vivarium
+2019
+Imogen Poots/Jesse Eisenberg
+Horror/Fantascienza
+Irlanda/Danimarca/Belgio
+Lorcan Finnegan
+97
+
+Will Hunting
+1997
+Matt Damon/Robin Williams
+Drammatico
+USA
+Gus Van Sant
+126
+
+Zohan
+2008
+Adam Sandler
+Demenziale
+USA
+Dennis Dugan
+113
+
